@@ -1,5 +1,5 @@
 # Loan-Default-Prediction
-# Loan Default Prediction
+
 
 ## Objective
 To predict whether a loan will be approved or rejected based on applicant details.
